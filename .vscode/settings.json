@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.port": 5501,
+  "editor.fontLigatures": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontWeight": "normal",
+  "editor.formatOnSave": true
+}
